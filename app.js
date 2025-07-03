@@ -33,7 +33,6 @@ function LevelUp() {
    gameseq.push(randomClr);
    console.log(gameseq)
 
-   // console.log(randIdx);
    // console.log(randBtn)
    // console.log(randomClr)
 
