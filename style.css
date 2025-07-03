@@ -1,0 +1,49 @@
+*{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: brown;
+    margin-bottom: 0%;
+}
+
+h4{
+    color: rgb(47, 47, 47);
+    font-size: 20px;
+    
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 3px solid black;
+    margin: 10px 0px 10px 10px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+
+.green{
+    background-color:#63aac0;
+}
+
+.purple{
+    background-color: #819ff9 ;
+}
+
+.flash{
+    background-color: white;
+}
